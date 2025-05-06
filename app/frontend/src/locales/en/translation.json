@@ -37,17 +37,17 @@
     "chatEmptyStateTitle": "Chat with your data",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "1": "Improve performance and readability of this business rule: {code}",
+        "2": "Improve exception handling for this this business rule: {code}",
+        "3": "Please explain the node home method",
+        "placeholder": "Type a new question (e.g. please optimize for performance?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
-        "1": "Compare the impact of interest rates and GDP in financial markets.",
-        "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
+        "1": "What are key aspects to consider for exception handling in business rules?",
+        "2": "How to investigate the performance of a business rule?",
         "3": "Can you identify any correlation between oil prices and stock market trends?",
-        "placeholder": "Example: Does my plan cover annual eye exams?"
+        "placeholder": "How to approach a significant increase in user profiles in STEP?"
     },
     "generatingAnswer": "Generating answer",
     "citationWithColon": "Citation:",
